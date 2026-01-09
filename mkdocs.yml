@@ -1,0 +1,41 @@
+site_name: SuHan Yun's Technical Report
+site_url: https://yourname.github.io/my-ros-note/
+# 🔴 붉은 계열: red, pink, purple, deep purple
+# 🔵 푸른 계열: indigo (기본값), blue, light blue, cyan, teal
+# 🟢 초록 계열: green, light green, lime
+# 🟡 노란/오렌지 계열: yellow, amber, orange, deep orange
+# 🟤 무채색/기타: brown, grey, blue grey, black, white
+theme:
+  name: material
+  logo: assets/robot-svgrepo-com.svg
+  palette:
+    primary: white
+    accent: black
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy # 코드 복사 버튼
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Study: study.md
+  - Teaching: teaching.md
+  - Projects: projects.md
+  - Publications: publications.md
+  - Competition: competition.md

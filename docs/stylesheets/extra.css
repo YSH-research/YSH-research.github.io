@@ -1,0 +1,16 @@
+/* 화면 너비를 넓게 설정 */
+.md-grid {
+    max-width: 85%;
+    /* 화면의 96%까지 사용 */
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* 글씨 크기를 조금 키워서 시원하게 보기 (선택 사항) */
+html {
+    font-size: 150%;
+}
+
+.md-header-nav .md-logo img {
+  height: 5rem;
+}
