@@ -7,7 +7,7 @@ site_url: https://yourname.github.io/my-ros-note/
 # 🟤 무채색/기타: brown, grey, blue grey, black, white
 theme:
   name: material
-  logo: assets/robot-svgrepo-com.svg
+  logo: assets/logo.png
   palette:
     primary: white
     accent: black
