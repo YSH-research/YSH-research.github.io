@@ -38,7 +38,7 @@ nav:
   - Teaching: teaching.md
   - Presentations:
     - Presentations/index.md
-    - 학술 세미나: Presentations/학술 세미나.md
+    - Academic Seminars: Presentations/academic-seminars.md
   - Publications: publications.md
   - Competition: competition.md
   - VMax _ IL,RL: /Project/BC-SAC_VMax.md
