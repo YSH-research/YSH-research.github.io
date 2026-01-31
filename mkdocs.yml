@@ -34,17 +34,17 @@ extra_css:
 nav:
   - Home: index.md
   - Research:
-    - research.md
-    - VMax _ IL,RL: /Project/BC-SAC_VMax.md
-    - DiffusionDriveV2 _ E2E,RL: /Project/DiffusionDriveV2_E2E,RL.md
-    - DiffusionPlanner _ BC: /Project/DiffusionPlanner_Nuplan.md
+      - research.md
+      - VMax _ IL,RL: /Project/BC-SAC_VMax.md
+      - DiffusionDriveV2 _ E2E,RL: /Project/DiffusionDriveV2_E2E,RL.md
+      - DiffusionPlanner _ BC: /Project/DiffusionPlanner_Nuplan.md
   - Study: study.md
   - Teaching: teaching.md
   - Presentations:
-    - Presentations/index.md
-    - Academic Seminars:
-      - Presentations/academic-seminars.md
-      - 2026.01.29: Presentations/2026-01-29.md
+      - Presentations/presentations.md
+      - Academic Seminars:
+          - Presentations/academic-seminars.md
+          - 2026.01.29: Presentations/2026-01-29.md
   - Publications: publications.md
   - Competition: competition.md
   - Projects: /Project/projects.md
