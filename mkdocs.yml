@@ -38,7 +38,9 @@ nav:
   - Teaching: teaching.md
   - Presentations:
     - Presentations/index.md
-    - Academic Seminars: Presentations/academic-seminars.md
+    - Academic Seminars:
+      - Presentations/academic-seminars.md
+      - 2026.01.29: Presentations/2026-01-29.md
   - Publications: publications.md
   - Competition: competition.md
   - VMax _ IL,RL: /Project/BC-SAC_VMax.md
