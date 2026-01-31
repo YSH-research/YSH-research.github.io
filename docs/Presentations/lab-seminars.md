@@ -1,4 +1,4 @@
-# Academic Seminars
+# Lab Seminars
 
 | Date       | Title                          |
 |------------|--------------------------------|
