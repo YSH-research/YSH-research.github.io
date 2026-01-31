@@ -44,7 +44,7 @@ nav:
       - Presentations/presentations.md
       - Academic Seminars:
           - Presentations/academic-seminars.md
-          - 2026.01.29: Presentations/2026-01-29.md
+          - 2026.01.29: Presentations/assets/2026-01-29/2026-01-29.md
   - Publications: publications.md
   - Competition: competition.md
   - Projects: /Project/projects.md
