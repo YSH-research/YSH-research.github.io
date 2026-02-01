@@ -43,6 +43,7 @@ nav:
   - Presentations:
       - Presentations/presentations.md
       - Academic Seminars: Presentations/academic-seminars.md
+      - Lab Seminars: Presentations/lab-seminars.md
   - Publications: publications.md
   - Competition: competition.md
   - Projects: /Project/projects.md

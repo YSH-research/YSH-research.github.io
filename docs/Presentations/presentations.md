@@ -1,6 +1,6 @@
-이 페이지는 제가 다른 사람들 앞에서 발표했던 자료들을 정리해보았습니다. 제가 무슨 기술들을 가지고 있는지 알 수 있도록 되
+This page is a collection of presentations I've given at academic conferences, lab seminars, and technical sharing sessions. Feel free to explore my research interests and technical expertise through these materials.
 
-# Categories
+## **Categories**
 
 - [Lab Seminars](lab-seminars.md)
 - [Academic Seminars](academic-seminars.md)
