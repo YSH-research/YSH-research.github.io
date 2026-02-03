@@ -43,7 +43,9 @@ nav:
   - Presentations:
       - Presentations/presentations.md
       - Academic Seminars: Presentations/academic-seminars.md
-      - Lab Seminars: Presentations/lab-seminars.md
+      - Lab Seminars:
+          - Presentations/lab-seminars.md
+          - E2E With Diffusion Model Planning: Presentations/assets/2026-01-29/2026-01-29.md
   - Publications: publications.md
   - Competition: competition.md
   - Projects: Project/projects.md
