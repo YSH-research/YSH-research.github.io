@@ -1,6 +1,6 @@
 # **Projects**
 
-Showcase some of your key projects.
+This section highlights engineering skills and technical experiments that support my research, rather than formal research outcomes.
 
 ### **Computer Resource Management**
 
