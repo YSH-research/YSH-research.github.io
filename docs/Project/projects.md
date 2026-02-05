@@ -1,4 +1,4 @@
-# **Projects
+# **Projects**
 
 Showcase some of your key projects.
 
@@ -8,5 +8,7 @@ Showcase some of your key projects.
 
 ### **Boost Productivity**
 
-- **With AI Tools**
-- **With S/W & Code**
+- AI Tools
+    --test
+
+- Dev Tools & Code
