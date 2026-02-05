@@ -17,10 +17,10 @@ This section highlights engineering skills and technical experiments that suppor
 
 # **Boost Productivity**
 
--**AI Tools**
+**-AI Tools**
     *n8n _ [n8n Server for Office Automation]()
 
--**Dev Tools & Code**
+**-Dev Tools & Code**
     *Server _ [Home Server Setup with Jetson Orin]()
     *RustDesk,TailScale _ [Setting Up Free IP and Remote Control Tools for Home Server]()
     *Mlops _ [Make Mlflow Server For Lab]()
