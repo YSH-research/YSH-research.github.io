@@ -9,6 +9,6 @@ Showcase some of your key projects.
 ### **Boost Productivity**
 
 - AI Tools
-    --test
+    -test
 
 - Dev Tools & Code
