@@ -22,7 +22,7 @@ This section highlights engineering skills and technical experiments that suppor
 
 ### Dev Tools & Code
 - Server _ [Home Server Setup with Jetson Orin]()
-- RustDesk,TailScale _ [Setting Up Free IP and Remote Control Tools for Home Server]()
+- RustDesk, TailScale _ [Setting Up Free IP and Remote Control Tools for Home Server]()
 - Mlops _ [Make Mlflow Server For Lab]()
 
 ---
