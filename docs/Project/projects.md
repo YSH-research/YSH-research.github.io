@@ -6,7 +6,7 @@ This section highlights engineering skills and technical experiments that suppor
 
 ### **Computer Resource Management**
 
-- [Computer Resource Management & Statistics](computer-resource-management.md)
+- [Computer Resource Management & Statistics](Computer-Resource-Management/computer-resource-management.md)
 
 ### **H/W Handle & Control**
 

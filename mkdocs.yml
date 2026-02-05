@@ -50,5 +50,5 @@ nav:
   - Competition: competition.md
   - Projects:
       - Project/projects.md
-      - Computer Resource Management & Statistics: Project/computer-resource-management.md
+      - Computer Resource Management & Statistics: Project/Computer-Resource-Management/computer-resource-management.md
   - CV: cv.md
