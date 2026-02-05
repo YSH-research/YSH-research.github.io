@@ -52,5 +52,5 @@ nav:
       - Project/projects.md
       - Computer Resource Management & Statistics:
           - Project/Computer-Resource-Management/computer-resource-management.md
-          - ROS2 CycloneDDS Setting: Project/Computer-Resource-Management/ROS2-cyclonedds-setting.md
+      - ROS2 CycloneDDS Setting: Project/Computer-Resource-Management/ROS2-cyclonedds-setting.md
   - CV: cv.md
