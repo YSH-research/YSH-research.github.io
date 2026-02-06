@@ -52,6 +52,6 @@ nav:
       - Project/projects.md
       - Computer Resource Management & Statistics:
           - Project/Computer-Resource-Management/computer-resource-management.md
-          - ROS2 CycloneDDS Setting: Project/Computer-Resource-Management/ROS2-cyclonedds-setting.md
-          - CARET _ ROS2 Runtime Analysis: "Project/Computer-Resource-Management/CARET _ ROS2 Runtime Analysis using CARET (Autoware).md"
+      - ROS2 CycloneDDS Setting: Project/Computer-Resource-Management/ROS2-cyclonedds-setting.md
+      - CARET _ ROS2 Runtime Analysis: "Project/Computer-Resource-Management/CARET _ ROS2 Runtime Analysis using CARET (Autoware).md"
   - CV: cv.md
