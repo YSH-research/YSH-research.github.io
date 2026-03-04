@@ -9,7 +9,7 @@
 
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
-| 2026.02.23~25 | <span style="color:blue">E2E</span>,<span style="color:yellow">Carla</span> | How to E2E Evaluation in Carla Simulation with Bench2Drive & Roadrunner | Kichun Jo. Processer | HanYang Unv. |
+| 2026.02.23~25 | <span style="color:blue">E2E</span>,<span style="color:yellow">Carla</span> | How to E2E Evaluation in Carla Simulation with Bench2Drive & Roadrunner | Prof. Kichun Jo | Hanyang Univ. |
 
 ## 2025
 
