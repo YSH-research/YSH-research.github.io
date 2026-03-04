@@ -14,3 +14,8 @@ html {
 .md-header-nav .md-logo img {
   height: 5rem;
 }
+
+/* Hide footer */
+.md-footer {
+  display: none;
+}
