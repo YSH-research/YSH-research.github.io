@@ -7,10 +7,11 @@
 
 ---
 
-## 서론 (Intro)
+## Introduction
 
-<!-- 특강 참석 증거 사진 -->
-![특강 증거](assets/2026-02-23/intro.jpg)
+E2E의 최신 동향 및 Bench2Drive를 이용하기 위한 Roadrunner, Scenariorunner, OpenDrive 등을 이용해서 시나리오를 생성하고 Carla에서 실행하는 방법과 Bench2Drive에 속도위반이라는 새로운 Evaluation을 추가하는 방법을 배움.
+
+![](assets/2026-02-23/Class.jpg)
 
 ---
 
