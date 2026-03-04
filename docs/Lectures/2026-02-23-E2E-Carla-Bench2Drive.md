@@ -9,13 +9,13 @@
 
 ## Introduction
 
-E2E의 최신 동향 및 Bench2Drive를 이용하기 위한 Roadrunner, Scenariorunner, OpenDrive 등을 이용해서 시나리오를 생성하고 Carla에서 실행하는 방법과 Bench2Drive에 속도위반이라는 새로운 Evaluation을 추가하는 방법을 배움.
+Learned about the latest trends in E2E autonomous driving, and how to create scenarios using Roadrunner, Scenariorunner, and OpenDrive for Bench2Drive. Also covered running scenarios in CARLA simulation and adding a new "speed violation" evaluation metric to Bench2Drive.
 
 ![](assets/2026-02-23/Class.jpg)
 
 ---
 
-## 본론 (Main Content)
+## Main Content
 
 ### Topic 1
 <!-- 내용 + 사진 -->
@@ -32,8 +32,5 @@ E2E의 최신 동향 및 Bench2Drive를 이용하기 위한 Roadrunner, Scenario
 
 ---
 
-## 정리 (Summary)
+## Review
 
--
--
--
