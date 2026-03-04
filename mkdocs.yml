@@ -6,7 +6,23 @@ site_url: https://ysh-research.github.io/YSH-research.io/
 # 🟡 노란/오렌지 계열: yellow, amber, orange, deep orange
 # 🟤 무채색/기타: brown, grey, blue grey, black, white
 theme:
-  name: mkdocs
+  name: material
+  logo: assets/logo.png
+  palette:
+    scheme: default
+    primary: black
+    accent: black
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.instant
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
 
 markdown_extensions:
   - pymdownx.highlight:
