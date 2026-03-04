@@ -9,8 +9,8 @@ theme:
   name: material
   logo: assets/logo.png
   palette:
-    primary: white
-    accent: black
+    primary: black
+    accent: white
   features:
     - navigation.tabs
     - navigation.tabs.sticky
