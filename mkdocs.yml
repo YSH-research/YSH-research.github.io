@@ -10,16 +10,18 @@ theme:
   logo: assets/logo.png
   palette:
     primary: black
-    accent: white
+    accent: black
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.top
-    - navigation.tabs
-    - navigation.sections
     - navigation.expand
-    - content.code.copy # 코드 복사 버튼
+    - navigation.top
+    - navigation.instant
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
 
 markdown_extensions:
   - pymdownx.highlight:
