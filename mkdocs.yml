@@ -32,6 +32,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+plugins:
+  - glightbox
+
 extra_css:
   - stylesheets/extra.css
 

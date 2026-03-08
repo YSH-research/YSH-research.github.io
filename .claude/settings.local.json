@@ -6,7 +6,8 @@
       "Bash(mv \"Class3. Bench2Drive\" \"Class3-Bench2Drive\")",
       "Bash(git add .)",
       "Bash(git commit -m \"Use markdown syntax in html div\")",
-      "Bash(git push origin main)"
+      "Bash(git push origin main)",
+      "Bash(git commit -m \"Add glightbox plugin\")"
     ]
   }
 }
