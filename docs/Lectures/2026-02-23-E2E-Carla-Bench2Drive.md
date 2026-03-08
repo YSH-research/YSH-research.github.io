@@ -22,11 +22,11 @@ Learned about the latest trends in E2E autonomous driving, and how to create sce
 
 ![](assets/2026-02-23/topic1.jpg){ width="600" }
 
-### Topic 2
+### Create Carla Scenario Using Scenario Runner 
 
 ![](assets/2026-02-23/topic2.jpg){ width="600" }
 
-### Topic 3
+### Use & Evaluation E2E(VAD) With Bench2Drive
 
 ![](assets/2026-02-23/topic3.jpg){ width="600" }
 
