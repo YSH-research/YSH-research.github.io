@@ -18,17 +18,35 @@ Learned about the latest trends in E2E autonomous driving, and how to create sce
 ## Main Content
 
 ### Carla Sensor Configuration via Python API
-<!-- 내용 + 사진 -->
+Connected to Carla via Python API and configured sensors (GNSS, IMU, Camera, LiDAR).
 
-![](assets/2026-02-23/topic1.jpg){ width="600" }
+<div style="display:flex; overflow-x:auto; gap:10px;">
+  <img src="assets/2026-02-23/Class1.%20Carla%20API/01_RGB_Cam01.png" width="400">
+  <img src="assets/2026-02-23/Class1.%20Carla%20API/04_Lidar.png" width="400">
+  <img src="assets/2026-02-23/Class1.%20Carla%20API/04_Lidar%20With%20Noise.png" width="400">
+  <img src="assets/2026-02-23/Class1.%20Carla%20API/05%20_%20Radar.png" width="400">
+  <img src="assets/2026-02-23/Class1.%20Carla%20API/06_GNSS.png" width="400">
+  <img src="assets/2026-02-23/Class1.%20Carla%20API/07_imu.png" width="400">
+  <img src="assets/2026-02-23/Class1.%20Carla%20API/11%20_%20RGB+imu.png" width="400">
+</div>
 
-### Create Carla Scenario Using Scenario Runner 
+### Create Carla Scenario Using Scenario Runner
 
-![](assets/2026-02-23/topic2.jpg){ width="600" }
+<div style="display:flex; overflow-x:auto; gap:10px;">
+  <img src="assets/2026-02-23/Class2.%20RoadRunner/1.png" width="400">
+  <img src="assets/2026-02-23/Class2.%20RoadRunner/2.png" width="400">
+  <img src="assets/2026-02-23/Class2.%20RoadRunner/3.png" width="400">
+  <img src="assets/2026-02-23/Class2.%20RoadRunner/4.png" width="400">
+  <img src="assets/2026-02-23/Class2.%20RoadRunner/5.png" width="400">
+</div>
 
 ### Running & Evaluating E2E(VAD) on Bench2Drive
 
-![](assets/2026-02-23/topic3.jpg){ width="600" }
+<div style="display:flex; overflow-x:auto; gap:10px;">
+  <img src="assets/2026-02-23/Class3.%20Bench2Drive/1.png" width="400">
+  <img src="assets/2026-02-23/Class3.%20Bench2Drive/2.png" width="400">
+  <img src="assets/2026-02-23/Class3.%20Bench2Drive/3.png" width="400">
+</div>
 
 ---
 
