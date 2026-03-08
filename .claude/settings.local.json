@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"Class1. Carla API\" \"Class1-Carla-API\")",
+      "Bash(mv \"Class2. RoadRunner\" \"Class2-RoadRunner\")",
+      "Bash(mv \"Class3. Bench2Drive\" \"Class3-Bench2Drive\")"
+    ]
+  }
+}
