@@ -42,6 +42,7 @@ Connected to Carla via Python API and configured sensors (GNSS, IMU, Camera, LiD
     ![](assets/2026-02-23/Class1-Carla-API/11___RGB+imu.png){ width="600" }
 
 ### Create Carla Scenario Using Scenario Runner
+Created scenarios using Roadrunner and imported them into CARLA based on OpenScenario 1.0.
 
 === "Step 1"
     ![](assets/2026-02-23/Class2-RoadRunner/1.png){ width="600" }
@@ -59,6 +60,7 @@ Connected to Carla via Python API and configured sensors (GNSS, IMU, Camera, LiD
     ![](assets/2026-02-23/Class2-RoadRunner/5.png){ width="600" }
 
 ### Running & Evaluating E2E(VAD) on Bench2Drive
+Ran inference on VAD using Bench2Drive and implemented a new evaluation metric (speed violation) through code modification.
 
 === "Step 1"
     ![](assets/2026-02-23/Class3-Bench2Drive/1.png){ width="600" }
