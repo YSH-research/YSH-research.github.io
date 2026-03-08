@@ -3,7 +3,10 @@
     "allow": [
       "Bash(mv \"Class1. Carla API\" \"Class1-Carla-API\")",
       "Bash(mv \"Class2. RoadRunner\" \"Class2-RoadRunner\")",
-      "Bash(mv \"Class3. Bench2Drive\" \"Class3-Bench2Drive\")"
+      "Bash(mv \"Class3. Bench2Drive\" \"Class3-Bench2Drive\")",
+      "Bash(git add .)",
+      "Bash(git commit -m \"Use markdown syntax in html div\")",
+      "Bash(git push origin main)"
     ]
   }
 }
