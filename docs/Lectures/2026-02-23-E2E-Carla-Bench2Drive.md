@@ -20,33 +20,54 @@ Learned about the latest trends in E2E autonomous driving, and how to create sce
 ### Carla Sensor Configuration via Python API
 Connected to Carla via Python API and configured sensors (GNSS, IMU, Camera, LiDAR).
 
-<div class="image-slider" style="display:flex; overflow-x:auto; gap:10px;" markdown>
-![](assets/2026-02-23/Class1-Carla-API/01_RGB_Cam01.png){ width="400" }
-![](assets/2026-02-23/Class1-Carla-API/04_Lidar.png){ width="400" }
-![](assets/2026-02-23/Class1-Carla-API/04_Lidar_With_Noise.png){ width="400" }
-![](assets/2026-02-23/Class1-Carla-API/05___Radar.png){ width="400" }
-![](assets/2026-02-23/Class1-Carla-API/06_GNSS.png){ width="400" }
-![](assets/2026-02-23/Class1-Carla-API/07_imu.png){ width="400" }
-![](assets/2026-02-23/Class1-Carla-API/11___RGB+imu.png){ width="400" }
-</div>
+=== "RGB Camera"
+    ![](assets/2026-02-23/Class1-Carla-API/01_RGB_Cam01.png){ width="600" }
+
+=== "LiDAR"
+    ![](assets/2026-02-23/Class1-Carla-API/04_Lidar.png){ width="600" }
+
+=== "LiDAR + Noise"
+    ![](assets/2026-02-23/Class1-Carla-API/04_Lidar_With_Noise.png){ width="600" }
+
+=== "Radar"
+    ![](assets/2026-02-23/Class1-Carla-API/05___Radar.png){ width="600" }
+
+=== "GNSS"
+    ![](assets/2026-02-23/Class1-Carla-API/06_GNSS.png){ width="600" }
+
+=== "IMU"
+    ![](assets/2026-02-23/Class1-Carla-API/07_imu.png){ width="600" }
+
+=== "RGB + IMU"
+    ![](assets/2026-02-23/Class1-Carla-API/11___RGB+imu.png){ width="600" }
 
 ### Create Carla Scenario Using Scenario Runner
 
-<div class="image-slider" style="display:flex; overflow-x:auto; gap:10px;" markdown>
-![](assets/2026-02-23/Class2-RoadRunner/1.png){ width="400" }
-![](assets/2026-02-23/Class2-RoadRunner/2.png){ width="400" }
-![](assets/2026-02-23/Class2-RoadRunner/3.png){ width="400" }
-![](assets/2026-02-23/Class2-RoadRunner/4.png){ width="400" }
-![](assets/2026-02-23/Class2-RoadRunner/5.png){ width="400" }
-</div>
+=== "Step 1"
+    ![](assets/2026-02-23/Class2-RoadRunner/1.png){ width="600" }
+
+=== "Step 2"
+    ![](assets/2026-02-23/Class2-RoadRunner/2.png){ width="600" }
+
+=== "Step 3"
+    ![](assets/2026-02-23/Class2-RoadRunner/3.png){ width="600" }
+
+=== "Step 4"
+    ![](assets/2026-02-23/Class2-RoadRunner/4.png){ width="600" }
+
+=== "Step 5"
+    ![](assets/2026-02-23/Class2-RoadRunner/5.png){ width="600" }
 
 ### Running & Evaluating E2E(VAD) on Bench2Drive
 
-<div class="image-slider" style="display:flex; overflow-x:auto; gap:10px;" markdown>
-![](assets/2026-02-23/Class3-Bench2Drive/1.png){ width="400" }
-![](assets/2026-02-23/Class3-Bench2Drive/2.png){ width="400" }
-![](assets/2026-02-23/Class3-Bench2Drive/3.png){ width="400" }
-</div>
+=== "Step 1"
+    ![](assets/2026-02-23/Class3-Bench2Drive/1.png){ width="600" }
+
+=== "Step 2"
+    ![](assets/2026-02-23/Class3-Bench2Drive/2.png){ width="600" }
+
+=== "Step 3"
+    ![](assets/2026-02-23/Class3-Bench2Drive/3.png){ width="600" }
 
 ---
 
