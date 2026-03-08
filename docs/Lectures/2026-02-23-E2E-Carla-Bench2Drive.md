@@ -17,7 +17,7 @@ Learned about the latest trends in E2E autonomous driving, and how to create sce
 
 ## Main Content
 
-### Topic 1 - Setting Up Sensors With Carla Python API
+### Carla Sensor Configuration via Python API
 <!-- 내용 + 사진 -->
 
 ![](assets/2026-02-23/topic1.jpg){ width="600" }
