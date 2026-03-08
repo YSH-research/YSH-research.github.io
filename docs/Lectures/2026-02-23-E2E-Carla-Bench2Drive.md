@@ -26,7 +26,7 @@ Learned about the latest trends in E2E autonomous driving, and how to create sce
 
 ![](assets/2026-02-23/topic2.jpg){ width="600" }
 
-### Running & Evaluation E2E(VAD) on Bench2Drive
+### Running & Evaluating E2E(VAD) on Bench2Drive
 
 ![](assets/2026-02-23/topic3.jpg){ width="600" }
 
