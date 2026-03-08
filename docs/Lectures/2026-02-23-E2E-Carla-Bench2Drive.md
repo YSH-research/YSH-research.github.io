@@ -72,6 +72,3 @@ Ran inference on VAD using Bench2Drive and implemented a new evaluation metric (
     ![](assets/2026-02-23/Class3-Bench2Drive/3.png){ width="600" }
 
 ---
-
-## Review
-
