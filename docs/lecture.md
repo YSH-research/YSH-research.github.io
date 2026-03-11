@@ -14,7 +14,7 @@
 <span style="color:darkcyan;font-weight:bold">Siemens</span> - 청록색
 <span style="color:orangered;font-weight:bold">Git</span> - 오렌지레드
 <span style="color:steelblue;font-weight:bold">Python</span> - 스틸블루
-<span style="color:darkviolet;font-weight:bold">Design</span> - 다크바이올렛
+<span style="color:darkviolet;font-weight:bold">CATIA</span> - 다크바이올렛
 <span style="color:olive;font-weight:bold">Field Trip</span> - 올리브
 -->
 ## 2026
@@ -23,7 +23,7 @@
 |------|----------|-------|---------|--------------|
 | 2026.02.23~25 | <span style="color:blue;font-weight:bold">E2E</span>, <span style="color:goldenrod;font-weight:bold">Carla</span> | [How to E2E Evaluation in Carla Simulation with Bench2Drive & Roadrunner](Lectures/2026/2026-02-23-E2E-Carla-Bench2Drive/2026-02-23-E2E-Carla-Bench2Drive.md) | Prof. Kichun Jo | Hanyang Univ. |
 | 2026.01.27~29 | <span style="color:crimson;font-weight:bold">MATLAB</span> | MATLAB Fundamentals | - | CBNU |
-| 2026.01.10 | <span style="color:darkviolet;font-weight:bold">Design</span> | Vehicle Design Methodology & 3D Modeling | - | CBNU |
+| 2026.01.10 | <span style="color:darkviolet;font-weight:bold">CATIA</span> | Vehicle Design Methodology & 3D Modeling | - | CBNU |
 
 ## 2025
 
