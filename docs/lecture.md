@@ -16,6 +16,7 @@
 <span style="color:gray;font-weight:bold">CAN</span> - 회색
 <span style="color:navy;font-weight:bold">Vehicle</span> - 네이비
 <span style="color:orangered;font-weight:bold">Git</span> - 오렌지레드
+<span style="color:steelblue;font-weight:bold">Python</span> - 스틸블루
 -->
 ## 2026
 
@@ -66,4 +67,4 @@
 | 2023.08.02~04 | <span style="color:teal;font-weight:bold">AD</span> | Autonomous Driving SW Technology (Advanced) | - | CBNU |
 | 2023.07.31 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
 | 2023.07.24~28 | <span style="color:purple;font-weight:bold">AI</span> | AI with Python Libraries (Advanced) | - | CBNU |
-| 2023.07.17~21 | Python | Python Big Data Analysis & Visualization (Basic) | - | CBNU |
+| 2023.07.17~21 | <span style="color:steelblue;font-weight:bold">Python</span> | Python Big Data Analysis & Visualization (Basic) | - | CBNU |
