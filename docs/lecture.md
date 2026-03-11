@@ -12,7 +12,7 @@
 <span style="color:teal;font-weight:bold">AD</span> - 청록색
 <span style="color:brown;font-weight:bold">Motor</span> - 갈색
 <span style="color:limegreen;font-weight:bold">EV/Battery</span> - 라임그린
-<span style="color:darkorange;font-weight:bold">Simulation</span> - 다크오렌지
+<span style="color:darkcyan;font-weight:bold">Siemens</span> - 청록색
 <span style="color:gray;font-weight:bold">CAN</span> - 회색
 <span style="color:navy;font-weight:bold">Vehicle</span> - 네이비
 <span style="color:orangered;font-weight:bold">Git</span> - 오렌지레드
@@ -35,7 +35,7 @@
 | 2025.12.23 | <span style="color:green;font-weight:bold">ROS</span> | LIMO PRO | - | CBNU |
 | 2025.09.16~19 | <span style="color:purple;font-weight:bold">AI</span> | Python ML & Deep Learning | - | CBNU |
 | 2025.08.26~28 | <span style="color:orange;font-weight:bold">MATLAB</span> | MATLAB Training | - | CBNU |
-| 2025.08.18~19 | <span style="color:darkorange;font-weight:bold">Simulation</span> | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
+| 2025.08.18~19 | <span style="color:darkcyan;font-weight:bold">Siemens</span> | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
 | 2025.08.11~12 | <span style="color:gray;font-weight:bold">CAN</span> | EV CAN Communication Protocol & Diagnostics | - | CBNU |
 | 2025.07.17 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
 | 2025.06.28 | <span style="color:limegreen;font-weight:bold">Battery</span> | EV Battery Design & Management | - | CBNU |
@@ -44,7 +44,7 @@
 | 2025.04.05 | <span style="color:navy;font-weight:bold">Vehicle</span> | Vehicle Manufacturing Purpose & Application | - | CBNU |
 | 2025.03.29 | <span style="color:navy;font-weight:bold">Vehicle Dynamics</span> | Vehicle Dynamics Essence | - | CBNU |
 | 2025.02.12~14 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Advanced Training | - | CBNU |
-| 2025.02.10~11 | <span style="color:darkorange;font-weight:bold">Simulation</span> | Siemens AMESIM Future Vehicle DX Design (Advanced) | - | CBNU |
+| 2025.02.10~11 | <span style="color:darkcyan;font-weight:bold">Siemens</span> | Siemens AMESIM Future Vehicle DX Design (Advanced) | - | CBNU |
 | 2025.02.03~07 | <span style="color:green;font-weight:bold">ROS</span> | LIMO PRO ROS2 Training | - | CBNU |
 
 ## 2024
