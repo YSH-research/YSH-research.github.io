@@ -4,7 +4,7 @@
 <span style="color:blue;font-weight:bold">E2E</span> - 파란색
 <span style="color:red;font-weight:bold">RL</span> - 빨간색
 <span style="color:goldenrod;font-weight:bold">Carla</span> - 골드
-<span style="color:orange;font-weight:bold">Matlab</span> - 주황색
+<span style="color:crimson;font-weight:bold">Matlab</span> - 크림슨
 <span style="color:black;font-weight:bold">Control</span> - 검은색
 <span style="color:green;font-weight:bold">ROS</span> - 초록색
 <span style="color:purple;font-weight:bold">AI</span> - 보라색
@@ -25,7 +25,7 @@
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
 | 2026.02.23~25 | <span style="color:blue;font-weight:bold">E2E</span>, <span style="color:goldenrod;font-weight:bold">Carla</span> | [How to E2E Evaluation in Carla Simulation with Bench2Drive & Roadrunner](Lectures/2026/2026-02-23-E2E-Carla-Bench2Drive/2026-02-23-E2E-Carla-Bench2Drive.md) | Prof. Kichun Jo | Hanyang Univ. |
-| 2026.01.27~29 | <span style="color:orange;font-weight:bold">MATLAB</span> | MATLAB Fundamentals | - | CBNU |
+| 2026.01.27~29 | <span style="color:crimson;font-weight:bold">MATLAB</span> | MATLAB Fundamentals | - | CBNU |
 | 2026.01.10 | <span style="color:darkviolet;font-weight:bold">Design</span> | Vehicle Design Methodology & 3D Modeling | - | CBNU |
 
 ## 2025
@@ -34,7 +34,7 @@
 |------|----------|-------|---------|--------------|
 | 2025.12.23 | <span style="color:green;font-weight:bold">ROS</span> | LIMO PRO | - | CBNU |
 | 2025.09.16~19 | <span style="color:purple;font-weight:bold">AI</span> | Python ML & Deep Learning | - | CBNU |
-| 2025.08.26~28 | <span style="color:orange;font-weight:bold">MATLAB</span> | MATLAB Training | - | CBNU |
+| 2025.08.26~28 | <span style="color:crimson;font-weight:bold">MATLAB</span> | MATLAB Training | - | CBNU |
 | 2025.08.18~19 | <span style="color:darkcyan;font-weight:bold">Siemens</span> | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
 | 2025.08.11~12 | <span style="color:gray;font-weight:bold">CAN</span> | EV CAN Communication Protocol & Diagnostics | - | CBNU |
 | 2025.07.17 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
