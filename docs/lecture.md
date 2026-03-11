@@ -10,11 +10,8 @@
 <span style="color:purple;font-weight:bold">AI</span> - 보라색
 <span style="color:darkblue;font-weight:bold">AUTOSAR</span> - 진한파랑
 <span style="color:teal;font-weight:bold">AD</span> - 청록색
-<span style="color:brown;font-weight:bold">Motor</span> - 갈색
-<span style="color:limegreen;font-weight:bold">EV/Battery</span> - 라임그린
+<span style="color:slategray;font-weight:bold">H/W</span> - 슬레이트그레이
 <span style="color:darkcyan;font-weight:bold">Siemens</span> - 청록색
-<span style="color:gray;font-weight:bold">CAN</span> - 회색
-<span style="color:navy;font-weight:bold">Vehicle</span> - 네이비
 <span style="color:orangered;font-weight:bold">Git</span> - 오렌지레드
 <span style="color:steelblue;font-weight:bold">Python</span> - 스틸블루
 <span style="color:darkviolet;font-weight:bold">Design</span> - 다크바이올렛
@@ -36,13 +33,13 @@
 | 2025.09.16~19 | <span style="color:purple;font-weight:bold">AI</span> | Python ML & Deep Learning | - | CBNU |
 | 2025.08.26~28 | <span style="color:crimson;font-weight:bold">MATLAB</span> | MATLAB Training | - | CBNU |
 | 2025.08.18~19 | <span style="color:darkcyan;font-weight:bold">Siemens</span> | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
-| 2025.08.11~12 | <span style="color:gray;font-weight:bold">CAN</span> | EV CAN Communication Protocol & Diagnostics | - | CBNU |
+| 2025.08.11~12 | <span style="color:slategray;font-weight:bold">H/W-CAN</span> | EV CAN Communication Protocol & Diagnostics | - | CBNU |
 | 2025.07.17 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
-| 2025.06.28 | <span style="color:limegreen;font-weight:bold">Battery</span> | EV Battery Design & Management | - | CBNU |
+| 2025.06.28 | <span style="color:slategray;font-weight:bold">H/W-Battery</span> | EV Battery Design & Management | - | CBNU |
 | 2025.06.05 | <span style="color:purple;font-weight:bold">AI</span> | RTX AI PC Campus Seminar | - | CBNU |
-| 2025.04.26~27 | <span style="color:brown;font-weight:bold">Motor</span> | DC, BLDC Motor Control & PSIM Simulation | - | CBNU |
-| 2025.04.05 | <span style="color:navy;font-weight:bold">Vehicle</span> | Vehicle Manufacturing Purpose & Application | - | CBNU |
-| 2025.03.29 | <span style="color:navy;font-weight:bold">Vehicle Dynamics</span> | Vehicle Dynamics Essence | - | CBNU |
+| 2025.04.26~27 | <span style="color:slategray;font-weight:bold">H/W-Motor</span> | DC, BLDC Motor Control & PSIM Simulation | - | CBNU |
+| 2025.04.05 | <span style="color:slategray;font-weight:bold">H/W-Vehicle</span> | Vehicle Manufacturing Purpose & Application | - | CBNU |
+| 2025.03.29 | <span style="color:slategray;font-weight:bold">H/W-Vehicle Dynamics</span> | Vehicle Dynamics Essence | - | CBNU |
 | 2025.02.12~14 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Advanced Training | - | CBNU |
 | 2025.02.10~11 | <span style="color:darkcyan;font-weight:bold">Siemens</span> | Siemens AMESIM Future Vehicle DX Design (Advanced) | - | CBNU |
 | 2025.02.03~07 | <span style="color:green;font-weight:bold">ROS</span> | LIMO PRO ROS2 Training | - | CBNU |
@@ -52,8 +49,8 @@
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
 | 2024.08.19~23 | <span style="color:teal;font-weight:bold">AD</span> | Scale Car Autonomous Driving WeBot | - | CBNU |
-| 2024.07.15~17 | <span style="color:limegreen;font-weight:bold">EV, BMS</span> | EV Power Converter & BMS Microprocessor Lab | - | CBNU |
-| 2024.05.18~19 | <span style="color:brown;font-weight:bold">Motor</span> | AC Motor Simulation | - | CBNU |
+| 2024.07.15~17 | <span style="color:slategray;font-weight:bold">H/W-EV/BMS</span> | EV Power Converter & BMS Microprocessor Lab | - | CBNU |
+| 2024.05.18~19 | <span style="color:slategray;font-weight:bold">H/W-Motor</span> | AC Motor Simulation | - | CBNU |
 | 2024.02.23 | <span style="color:purple;font-weight:bold">AI</span> | Dev-AI Basic | - | CBNU |
 | 2024.02.05~07 | AI, <span style="color:teal;font-weight:bold">AD</span> | AWS DeepRacer AI & Autonomous Driving | - | CBNU |
 | 2024.01.29~02.02 | ROS, <span style="color:teal;font-weight:bold">AD</span> | ROS, ERP42 Sim Training | - | CBNU |
