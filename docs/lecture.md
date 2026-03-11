@@ -7,6 +7,7 @@
 <span style="color:orange;font-weight:bold">Matlab</span> - 주황색
 <span style="color:black;font-weight:bold">Control</span> - 검은색
 <span style="color:green;font-weight:bold">ROS</span> - 초록색
+<span style="color:purple;font-weight:bold">AI</span> - 보라색
 -->
 ## 2026
 
@@ -21,13 +22,13 @@
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
 | 2025.12.23 | <span style="color:green;font-weight:bold">ROS</span> | LIMO PRO | - | CBNU |
-| 2025.09.16~19 | AI | Python ML & Deep Learning | - | CBNU |
+| 2025.09.16~19 | <span style="color:purple;font-weight:bold">AI</span> | Python ML & Deep Learning | - | CBNU |
 | 2025.08.26~28 | MATLAB | MATLAB Training | - | CBNU |
 | 2025.08.18~19 | Simulation | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
 | 2025.08.11~12 | CAN | EV CAN Communication Protocol & Diagnostics | - | CBNU |
 | 2025.07.17 | AUTOSAR | AUTOSAR Basic Training | - | CBNU |
 | 2025.06.28 | Battery | EV Battery Design & Management | - | CBNU |
-| 2025.06.05 | AI | RTX AI PC Campus Seminar | - | CBNU |
+| 2025.06.05 | <span style="color:purple;font-weight:bold">AI</span> | RTX AI PC Campus Seminar | - | CBNU |
 | 2025.04.26~27 | Motor | DC, BLDC Motor Control & PSIM Simulation | - | CBNU |
 | 2025.04.05 | Vehicle | Vehicle Manufacturing Purpose & Application | - | CBNU |
 | 2025.03.29 | Vehicle Dynamics | Vehicle Dynamics Essence | - | CBNU |
@@ -42,7 +43,7 @@
 | 2024.08.19~23 | AD | Scale Car Autonomous Driving WeBot | - | CBNU |
 | 2024.07.15~17 | EV, BMS | EV Power Converter & BMS Microprocessor Lab | - | CBNU |
 | 2024.05.18~19 | Motor | AC Motor Simulation | - | CBNU |
-| 2024.02.23 | AI | Dev-AI Basic | - | CBNU |
+| 2024.02.23 | <span style="color:purple;font-weight:bold">AI</span> | Dev-AI Basic | - | CBNU |
 | 2024.02.05~07 | AI, AD | AWS DeepRacer AI & Autonomous Driving | - | CBNU |
 | 2024.01.29~02.02 | ROS, AD | ROS, ERP42 Sim Training | - | CBNU |
 
@@ -56,5 +57,5 @@
 | 2023.08.29~31 | ROS, AD | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | - | CBNU |
 | 2023.08.02~04 | AD | Autonomous Driving SW Technology (Advanced) | - | CBNU |
 | 2023.07.31 | AUTOSAR | AUTOSAR Basic Training | - | CBNU |
-| 2023.07.24~28 | AI | AI with Python Libraries (Advanced) | - | CBNU |
+| 2023.07.24~28 | <span style="color:purple;font-weight:bold">AI</span> | AI with Python Libraries (Advanced) | - | CBNU |
 | 2023.07.17~21 | Python | Python Big Data Analysis & Visualization (Basic) | - | CBNU |
