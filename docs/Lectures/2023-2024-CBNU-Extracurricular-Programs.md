@@ -20,3 +20,9 @@
 | 2023-09-18 ~ 10-06 | Git-Github Basic & Advanced | SW-Centered University |
 | 2023-10-27 | KES 2023 Electronics Engineering Field Trip | Electronics Engineering |
 | 2023-11-03 | AUTOSAR Adaptive Platform Basic Training | Future Vehicle Innovation Talent Development |
+
+### 2024
+
+| Date | Program | Department |
+|------|---------|------------|
+| 2024-01-29 ~ 02-02 | ROS, ERP42 Sim Training | Future Vehicle Innovation University |
