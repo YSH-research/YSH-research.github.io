@@ -9,6 +9,7 @@
 <span style="color:green;font-weight:bold">ROS</span> - 초록색
 <span style="color:purple;font-weight:bold">AI</span> - 보라색
 <span style="color:darkblue;font-weight:bold">AUTOSAR</span> - 진한파랑
+<span style="color:teal;font-weight:bold">AD</span> - 청록색
 -->
 ## 2026
 
@@ -41,12 +42,12 @@
 
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
-| 2024.08.19~23 | AD | Scale Car Autonomous Driving WeBot | - | CBNU |
+| 2024.08.19~23 | <span style="color:teal;font-weight:bold">AD</span> | Scale Car Autonomous Driving WeBot | - | CBNU |
 | 2024.07.15~17 | EV, BMS | EV Power Converter & BMS Microprocessor Lab | - | CBNU |
 | 2024.05.18~19 | Motor | AC Motor Simulation | - | CBNU |
 | 2024.02.23 | <span style="color:purple;font-weight:bold">AI</span> | Dev-AI Basic | - | CBNU |
-| 2024.02.05~07 | AI, AD | AWS DeepRacer AI & Autonomous Driving | - | CBNU |
-| 2024.01.29~02.02 | ROS, AD | ROS, ERP42 Sim Training | - | CBNU |
+| 2024.02.05~07 | AI, <span style="color:teal;font-weight:bold">AD</span> | AWS DeepRacer AI & Autonomous Driving | - | CBNU |
+| 2024.01.29~02.02 | ROS, <span style="color:teal;font-weight:bold">AD</span> | ROS, ERP42 Sim Training | - | CBNU |
 
 ## 2023
 
@@ -55,8 +56,8 @@
 | 2023.11.03 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Adaptive Platform Basic Training | - | CBNU |
 | 2023.10.27 | Field Trip | KES 2023 Electronics Engineering Field Trip | - | CBNU |
 | 2023.09.18~10.06 | Git | Git-Github Basic & Advanced | - | CBNU |
-| 2023.08.29~31 | ROS, AD | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | - | CBNU |
-| 2023.08.02~04 | AD | Autonomous Driving SW Technology (Advanced) | - | CBNU |
+| 2023.08.29~31 | ROS, <span style="color:teal;font-weight:bold">AD</span> | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | - | CBNU |
+| 2023.08.02~04 | <span style="color:teal;font-weight:bold">AD</span> | Autonomous Driving SW Technology (Advanced) | - | CBNU |
 | 2023.07.31 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
 | 2023.07.24~28 | <span style="color:purple;font-weight:bold">AI</span> | AI with Python Libraries (Advanced) | - | CBNU |
 | 2023.07.17~21 | Python | Python Big Data Analysis & Visualization (Basic) | - | CBNU |
