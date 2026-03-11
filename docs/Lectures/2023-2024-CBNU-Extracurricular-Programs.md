@@ -17,3 +17,4 @@
 | 2023-07-31 | AUTOSAR Basic Training | Digital Innovation Sharing University |
 | 2023-08-02 ~ 04 | Autonomous Driving SW Technology (Advanced) | Digital Innovation Sharing University |
 | 2023-08-29 ~ 31 | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | Engineering Education Innovation Center |
+| 2023-09-18 ~ 10-06 | Git-Github Basic & Advanced | SW-Centered University |
