@@ -6,6 +6,7 @@
 <span style="color:goldenrod;font-weight:bold">Carla</span> - 골드
 <span style="color:orange;font-weight:bold">Matlab</span> - 주황색
 <span style="color:black;font-weight:bold">Control</span> - 검은색
+<span style="color:green;font-weight:bold">ROS</span> - 초록색
 -->
 ## 2026
 
@@ -19,7 +20,7 @@
 
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
-| 2025.12.23 | ROS | LIMO PRO | - | CBNU |
+| 2025.12.23 | <span style="color:green;font-weight:bold">ROS</span> | LIMO PRO | - | CBNU |
 | 2025.09.16~19 | AI | Python ML & Deep Learning | - | CBNU |
 | 2025.08.26~28 | MATLAB | MATLAB Training | - | CBNU |
 | 2025.08.18~19 | Simulation | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
@@ -32,7 +33,7 @@
 | 2025.03.29 | Vehicle Dynamics | Vehicle Dynamics Essence | - | CBNU |
 | 2025.02.12~14 | AUTOSAR | AUTOSAR Advanced Training | - | CBNU |
 | 2025.02.10~11 | Simulation | Siemens AMESIM Future Vehicle DX Design (Advanced) | - | CBNU |
-| 2025.02.03~07 | ROS | LIMO PRO ROS2 Training | - | CBNU |
+| 2025.02.03~07 | <span style="color:green;font-weight:bold">ROS</span> | LIMO PRO ROS2 Training | - | CBNU |
 
 ## 2024
 
