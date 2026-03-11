@@ -13,6 +13,7 @@
 <span style="color:brown;font-weight:bold">Motor</span> - 갈색
 <span style="color:limegreen;font-weight:bold">EV/Battery</span> - 라임그린
 <span style="color:darkorange;font-weight:bold">Simulation</span> - 다크오렌지
+<span style="color:gray;font-weight:bold">CAN</span> - 회색
 -->
 ## 2026
 
@@ -30,7 +31,7 @@
 | 2025.09.16~19 | <span style="color:purple;font-weight:bold">AI</span> | Python ML & Deep Learning | - | CBNU |
 | 2025.08.26~28 | MATLAB | MATLAB Training | - | CBNU |
 | 2025.08.18~19 | <span style="color:darkorange;font-weight:bold">Simulation</span> | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
-| 2025.08.11~12 | CAN | EV CAN Communication Protocol & Diagnostics | - | CBNU |
+| 2025.08.11~12 | <span style="color:gray;font-weight:bold">CAN</span> | EV CAN Communication Protocol & Diagnostics | - | CBNU |
 | 2025.07.17 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
 | 2025.06.28 | <span style="color:limegreen;font-weight:bold">Battery</span> | EV Battery Design & Management | - | CBNU |
 | 2025.06.05 | <span style="color:purple;font-weight:bold">AI</span> | RTX AI PC Campus Seminar | - | CBNU |
