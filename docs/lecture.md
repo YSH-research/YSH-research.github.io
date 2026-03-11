@@ -15,6 +15,7 @@
 <span style="color:darkorange;font-weight:bold">Simulation</span> - 다크오렌지
 <span style="color:gray;font-weight:bold">CAN</span> - 회색
 <span style="color:navy;font-weight:bold">Vehicle</span> - 네이비
+<span style="color:orangered;font-weight:bold">Git</span> - 오렌지레드
 -->
 ## 2026
 
@@ -60,7 +61,7 @@
 |------|----------|-------|---------|--------------|
 | 2023.11.03 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Adaptive Platform Basic Training | - | CBNU |
 | 2023.10.27 | Field Trip | KES 2023 Electronics Engineering Field Trip | - | CBNU |
-| 2023.09.18~10.06 | Git | Git-Github Basic & Advanced | - | CBNU |
+| 2023.09.18~10.06 | <span style="color:orangered;font-weight:bold">Git</span> | Git-Github Basic & Advanced | - | CBNU |
 | 2023.08.29~31 | ROS, <span style="color:teal;font-weight:bold">AD</span> | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | - | CBNU |
 | 2023.08.02~04 | <span style="color:teal;font-weight:bold">AD</span> | Autonomous Driving SW Technology (Advanced) | - | CBNU |
 | 2023.07.31 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
