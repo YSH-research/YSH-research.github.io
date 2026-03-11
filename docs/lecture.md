@@ -10,6 +10,7 @@
 <span style="color:purple;font-weight:bold">AI</span> - 보라색
 <span style="color:darkblue;font-weight:bold">AUTOSAR</span> - 진한파랑
 <span style="color:teal;font-weight:bold">AD</span> - 청록색
+<span style="color:brown;font-weight:bold">Motor</span> - 갈색
 -->
 ## 2026
 
@@ -31,7 +32,7 @@
 | 2025.07.17 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
 | 2025.06.28 | Battery | EV Battery Design & Management | - | CBNU |
 | 2025.06.05 | <span style="color:purple;font-weight:bold">AI</span> | RTX AI PC Campus Seminar | - | CBNU |
-| 2025.04.26~27 | Motor | DC, BLDC Motor Control & PSIM Simulation | - | CBNU |
+| 2025.04.26~27 | <span style="color:brown;font-weight:bold">Motor</span> | DC, BLDC Motor Control & PSIM Simulation | - | CBNU |
 | 2025.04.05 | Vehicle | Vehicle Manufacturing Purpose & Application | - | CBNU |
 | 2025.03.29 | Vehicle Dynamics | Vehicle Dynamics Essence | - | CBNU |
 | 2025.02.12~14 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Advanced Training | - | CBNU |
@@ -44,7 +45,7 @@
 |------|----------|-------|---------|--------------|
 | 2024.08.19~23 | <span style="color:teal;font-weight:bold">AD</span> | Scale Car Autonomous Driving WeBot | - | CBNU |
 | 2024.07.15~17 | EV, BMS | EV Power Converter & BMS Microprocessor Lab | - | CBNU |
-| 2024.05.18~19 | Motor | AC Motor Simulation | - | CBNU |
+| 2024.05.18~19 | <span style="color:brown;font-weight:bold">Motor</span> | AC Motor Simulation | - | CBNU |
 | 2024.02.23 | <span style="color:purple;font-weight:bold">AI</span> | Dev-AI Basic | - | CBNU |
 | 2024.02.05~07 | AI, <span style="color:teal;font-weight:bold">AD</span> | AWS DeepRacer AI & Autonomous Driving | - | CBNU |
 | 2024.01.29~02.02 | ROS, <span style="color:teal;font-weight:bold">AD</span> | ROS, ERP42 Sim Training | - | CBNU |
