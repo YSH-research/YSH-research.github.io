@@ -13,3 +13,4 @@
 | Date | Program | Department |
 |------|---------|------------|
 | 2023-07-17 ~ 21 | Python Big Data Analysis & Visualization (Basic) | Information Technology Center |
+| 2023-07-24 ~ 28 | AI with Python Libraries (Advanced) | Information Technology Center |
