@@ -26,3 +26,4 @@
 | Date | Program | Department |
 |------|---------|------------|
 | 2024-01-29 ~ 02-02 | ROS, ERP42 Sim Training | Future Vehicle Innovation University |
+| 2024-02-05 ~ 07 | AWS DeepRacer AI & Autonomous Driving | Future Vehicle Innovation University |
