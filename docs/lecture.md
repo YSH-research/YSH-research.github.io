@@ -9,7 +9,7 @@
 <span style="color:midnightblue;font-weight:bold">ROS</span> - 미드나잇블루
 <span style="color:purple;font-weight:bold">AI</span> - 보라색
 <span style="color:darkblue;font-weight:bold">AUTOSAR</span> - 진한파랑
-<span style="color:teal;font-weight:bold">AD</span> - 청록색
+<span style="color:teal;font-weight:bold">AV</span> - 청록색
 <span style="color:slategray;font-weight:bold">H/W</span> - 슬레이트그레이
 <span style="color:darkcyan;font-weight:bold">Siemens</span> - 청록색
 <span style="color:orangered;font-weight:bold">Git</span> - 오렌지레드
@@ -29,7 +29,7 @@
 
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
-| 2025.12.23 | <span style="color:midnightblue;font-weight:bold">ROS</span> | LIMO PRO | - | CBNU |
+| 2025.12.23 | <span style="color:midnightblue;font-weight:bold">ROS</span>, <span style="color:teal;font-weight:bold">AV</span> | LIMO PRO | - | CBNU |
 | 2025.09.16~19 | <span style="color:purple;font-weight:bold">AI</span> | Python ML & Deep Learning | - | CBNU |
 | 2025.08.26~28 | <span style="color:crimson;font-weight:bold">MATLAB</span> | MATLAB Training | - | CBNU |
 | 2025.08.18~19 | <span style="color:darkcyan;font-weight:bold">Siemens</span> | Siemens AMESIM Future Vehicle DX Design (Basic) | - | CBNU |
@@ -48,12 +48,12 @@
 
 | Date | Category | Title | Speaker | Organization |
 |------|----------|-------|---------|--------------|
-| 2024.08.19~23 | <span style="color:teal;font-weight:bold">AD</span> | Scale Car Autonomous Driving WeBot | - | CBNU |
+| 2024.08.19~23 | <span style="color:teal;font-weight:bold">AV</span> | Scale Car Autonomous Driving WeBot | - | CBNU |
 | 2024.07.15~17 | <span style="color:slategray;font-weight:bold">H/W-EV/BMS</span> | EV Power Converter & BMS Microprocessor Lab | - | CBNU |
 | 2024.05.18~19 | <span style="color:slategray;font-weight:bold">H/W-Motor</span> | AC Motor Simulation | - | CBNU |
 | 2024.02.23 | <span style="color:purple;font-weight:bold">AI</span> | Dev-AI Basic | - | CBNU |
-| 2024.02.05~07 | <span style="color:purple;font-weight:bold">AI</span>, <span style="color:teal;font-weight:bold">AD</span> | AWS DeepRacer AI & Autonomous Driving | - | CBNU |
-| 2024.01.29~02.02 | <span style="color:midnightblue;font-weight:bold">ROS</span>, <span style="color:teal;font-weight:bold">AD</span> | ROS, ERP42 Sim Training | - | CBNU |
+| 2024.02.05~07 | <span style="color:purple;font-weight:bold">AI</span>, <span style="color:teal;font-weight:bold">AV</span> | AWS DeepRacer AI & Autonomous Driving | - | CBNU |
+| 2024.01.29~02.02 | <span style="color:midnightblue;font-weight:bold">ROS</span>, <span style="color:teal;font-weight:bold">AV</span> | ROS, ERP42 Sim Training | - | CBNU |
 
 ## 2023
 
@@ -62,8 +62,8 @@
 | 2023.11.03 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Adaptive Platform Basic Training | - | CBNU |
 | 2023.10.27 | <span style="color:olive;font-weight:bold">Field Trip</span> | KES 2023 Electronics Engineering Field Trip | - | CBNU |
 | 2023.09.18~10.06 | <span style="color:orangered;font-weight:bold">Git</span> | Git-Github Basic & Advanced | - | CBNU |
-| 2023.08.29~31 | <span style="color:midnightblue;font-weight:bold">ROS</span>, <span style="color:teal;font-weight:bold">AD</span> | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | - | CBNU |
-| 2023.08.02~04 | <span style="color:teal;font-weight:bold">AD</span> | Autonomous Driving SW Technology (Advanced) | - | CBNU |
+| 2023.08.29~31 | <span style="color:midnightblue;font-weight:bold">ROS</span>, <span style="color:teal;font-weight:bold">AV</span> | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | - | CBNU |
+| 2023.08.02~04 | <span style="color:teal;font-weight:bold">AV</span> | Autonomous Driving SW Technology (Advanced) | - | CBNU |
 | 2023.07.31 | <span style="color:darkblue;font-weight:bold">AUTOSAR</span> | AUTOSAR Basic Training | - | CBNU |
 | 2023.07.24~28 | <span style="color:purple;font-weight:bold">AI</span> | AI with Python Libraries (Advanced) | - | CBNU |
 | 2023.07.17~21 | <span style="color:steelblue;font-weight:bold">Python</span> | Python Big Data Analysis & Visualization (Basic) | - | CBNU |
