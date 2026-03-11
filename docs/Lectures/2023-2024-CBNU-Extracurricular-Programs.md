@@ -19,3 +19,4 @@
 | 2023-08-29 ~ 31 | TurtleBot3 Burger ROS Autonomous Driving Programming (Intermediate) | Engineering Education Innovation Center |
 | 2023-09-18 ~ 10-06 | Git-Github Basic & Advanced | SW-Centered University |
 | 2023-10-27 | KES 2023 Electronics Engineering Field Trip | Electronics Engineering |
+| 2023-11-03 | AUTOSAR Adaptive Platform Basic Training | Future Vehicle Innovation Talent Development |
