@@ -14,7 +14,8 @@
       "Bash(uv pip:*)",
       "Bash(uv run --with comtypes python -c \":*)",
       "Bash(ls docs/Presentations/assets/2026-02-13/*.jpg)",
-      "Bash(ls docs/Presentations/assets/2026-02-27/*.jpg)"
+      "Bash(ls docs/Presentations/assets/2026-02-27/*.jpg)",
+      "Bash(uv run:*)"
     ]
   }
 }
