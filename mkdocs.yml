@@ -56,11 +56,14 @@ nav:
   - Study: study.md
   - Lectures: lecture.md
   - Presentations:
-      - Presentations/presentations.md
+      - Overview: Presentations/presentations.md
       - Academic Seminars: Presentations/academic-seminars.md
       - Lab Seminars:
-          - Presentations/lab-seminars.md
-          - E2E With Diffusion Model Planning: Presentations/assets/2026-01-29/2026-01-29.md
+          - Overview: Presentations/lab-seminars.md
+          - 2026.01.29: Presentations/assets/2026-01-29/2026-01-29.md
+          - 2026.02.13: Presentations/assets/2026-02-13/2026-02-13.md
+          - 2026.02.27: Presentations/assets/2026-02-27/2026-02-27.md
+          - 2026.03.20: Presentations/assets/2026-03-20/2026-03-20.md
   - CV: cv.md
   - Publications: publications.md
   - Competition: competition.md
