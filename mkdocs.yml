@@ -55,10 +55,10 @@ nav:
   - Study: study.md
   - Lectures: lecture.md
   - Presentations:
-      - Presentations/presentations.md
+      - Overview: Presentations/presentations.md
       - Academic Seminars: Presentations/academic-seminars.md
       - Lab Seminars:
-          - Presentations/lab-seminars.md
+          - Overview: Presentations/lab-seminars.md
           - 2026.01.29: Presentations/assets/2026-01-29/2026-01-29.md
           - 2026.02.13: Presentations/assets/2026-02-13/2026-02-13.md
           - 2026.02.27: Presentations/assets/2026-02-27/2026-02-27.md
