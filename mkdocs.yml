@@ -41,23 +41,11 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Research:
-      - research.md
-      - VMax _ IL,RL: Research/BC-SAC_VMax.md
-      - DiffusionDriveV2 _ E2E,RL: Research/DiffusionDriveV2_E2E,RL.md
-      - DiffusionPlanner _ BC: Research/DiffusionPlanner_Nuplan.md
-  - Projects:
-      - Project/projects.md
-      - Computer Resource Management & Statistics:
-          - Project/Computer-Resource-Management/computer-resource-management.md
-      - ROS2 CycloneDDS Setting: Project/Computer-Resource-Management/ROS2-cyclonedds-setting.md
-      - CARET _ ROS2 Runtime Analysis: Project/Computer-Resource-Management/CARET-ROS2-runtime-analysis.md
+  - Research: research.md
+  - Projects: Project/projects.md
   - Study: study.md
   - Lectures: lecture.md
-  - Presentations:
-      - Overview: Presentations/presentations.md
-      - Academic Seminars: Presentations/academic-seminars.md
-      - Lab Seminars: Presentations/lab-seminars.md
+  - Presentations: Presentations/presentations.md
   - CV: cv.md
   - Publications: publications.md
   - Competition: competition.md
