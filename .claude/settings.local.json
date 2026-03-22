@@ -7,7 +7,14 @@
       "Bash(git add .)",
       "Bash(git commit -m \"Use markdown syntax in html div\")",
       "Bash(git push origin main)",
-      "Bash(git commit -m \"Add glightbox plugin\")"
+      "Bash(git commit -m \"Add glightbox plugin\")",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(python -c \"import comtypes.client; print\\(''comtypes installed''\\)\")",
+      "Bash(uv pip:*)",
+      "Bash(uv run --with comtypes python -c \":*)",
+      "Bash(ls docs/Presentations/assets/2026-02-13/*.jpg)",
+      "Bash(ls docs/Presentations/assets/2026-02-27/*.jpg)"
     ]
   }
 }
