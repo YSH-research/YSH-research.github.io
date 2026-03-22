@@ -19,7 +19,6 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.instant
-    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -57,10 +56,10 @@ nav:
   - Study: study.md
   - Lectures: lecture.md
   - Presentations:
-      - Presentations/index.md
+      - Presentations/presentations.md
       - Academic Seminars: Presentations/academic-seminars.md
       - Lab Seminars:
-          - Presentations/Lab-Seminars/index.md
+          - Presentations/lab-seminars.md
           - 2026.01.29: Presentations/assets/2026-01-29/2026-01-29.md
           - 2026.02.13: Presentations/assets/2026-02-13/2026-02-13.md
           - 2026.02.27: Presentations/assets/2026-02-27/2026-02-27.md
