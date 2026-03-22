@@ -15,7 +15,15 @@
       "Bash(uv run --with comtypes python -c \":*)",
       "Bash(ls docs/Presentations/assets/2026-02-13/*.jpg)",
       "Bash(ls docs/Presentations/assets/2026-02-27/*.jpg)",
-      "Bash(uv run:*)"
+      "Bash(uv run:*)",
+      "Bash(git status:*)",
+      "Bash(ls -la docs/Presentations/assets/2026-02-13/*.jpg)",
+      "Bash(gh run:*)",
+      "Bash(git fetch:*)",
+      "Bash(ls -d docs/Presentations/assets/*/)",
+      "Bash(ls docs/Presentations/assets/2026-03-20/*.jpg)",
+      "Bash(ls docs/Presentations/assets/2026-02-13/*.md)",
+      "Bash(ls docs/Presentations/assets/2026-02-27/*.md)"
     ]
   }
 }
