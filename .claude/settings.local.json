@@ -25,7 +25,9 @@
       "Bash(ls docs/Presentations/assets/2026-02-13/*.md)",
       "Bash(ls docs/Presentations/assets/2026-02-27/*.md)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(\"c:/Users/SuHan/Git/YSH-research.github.io/docs/Presentations/assets/2026-03-20/2026-03-20.md\")"
     ]
   }
 }
