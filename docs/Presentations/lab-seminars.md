@@ -2,7 +2,7 @@
 
 | Date       | Title                          |
 |------------|--------------------------------|
-| 2026.03.20 | [3DGS & Nvidia Env & RL Fin Tuning](assets/2026-03-20/2026-03-20.md) |
+| 2026.03.20 | [3DGS & alpamayo & RL Fin Tuning](assets/2026-03-20/2026-03-20.md) |
 | 2026.02.27 | [E2E With Diffusion Model Planning](assets/2026-02-27/2026-02-27.md) |
 | 2026.02.13 | [E2E With Diffusion Model Planning](assets/2026-02-13/2026-02-13.md) |
 | 2026.01.29 | [E2E With Diffusion Model Planning](assets/2026-01-29/2026-01-29.md) |
