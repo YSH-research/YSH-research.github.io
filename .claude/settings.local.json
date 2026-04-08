@@ -27,7 +27,15 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(\"c:/Users/SuHan/Git/YSH-research.github.io/docs/Presentations/assets/2026-03-20/2026-03-20.md\")"
+      "Bash(\"c:/Users/SuHan/Git/YSH-research.github.io/docs/Presentations/assets/2026-03-20/2026-03-20.md\")",
+      "Bash(python -c \"import pptx; print\\(''python-pptx available''\\)\")",
+      "Bash(python -c \"from pdf2image import convert_from_path; print\\(''pdf2image available''\\)\")",
+      "Bash(where python:*)",
+      "Bash(where pip:*)",
+      "Bash(where pip3:*)",
+      "Bash(where python3:*)",
+      "Bash(python -m pip install python-pptx Pillow comtypes)",
+      "Bash(powershell.exe -Command \":*)"
     ]
   }
 }
