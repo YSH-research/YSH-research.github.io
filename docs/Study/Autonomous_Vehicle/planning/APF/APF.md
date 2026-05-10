@@ -1,4 +1,4 @@
-# Artificial Potential Field (APF)
+# **Artificial Potential Field (APF)**
 
 ## 1. Overview
 
@@ -13,9 +13,11 @@ APF (Artificial Potential Field) is a reactive local path planner proposed by Kh
 
 Intuitively, if you visualize $U(x)$ as a landscape of *hills and valleys*, the robot rolls down into the goal valley while detouring around obstacle peaks.
 
+---
+
 ## 2. Formulation
 
-### 2.1 Attractive Potential
+### **2.1 Attractive Potential**
 
 ![Attractive potential field](<image.png>)
 
@@ -37,6 +39,7 @@ F_{att}(x) = -\nabla U_{att}(x) = K_{att}(x_{goal} - x)
 $$
 
 In 2D, $\nabla$ denotes the vector of partial derivatives $(\partial U / \partial x, \partial U / \partial y)$, pointing in the direction of steepest increase of $U$. Therefore $-\nabla U_{att}$ always points toward the goal, with magnitude proportional to distance.
+
 
 ### 2.2 Repulsive Potential
 
