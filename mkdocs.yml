@@ -49,6 +49,7 @@ nav:
       - Overview: Study/Autonomous_Vehicle/index.md
       - Perception: Study/Autonomous_Vehicle/perception/index.md
       - Planning: Study/Autonomous_Vehicle/planning/index.md
+      - Control: Study/Autonomous_Vehicle/control/index.md
     - AI: Study/AI/index.md
   - Lectures: lecture/lecture.md
   - Teaching: teaching/teaching.md
