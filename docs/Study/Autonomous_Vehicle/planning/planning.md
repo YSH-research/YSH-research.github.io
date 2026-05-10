@@ -1,4 +1,4 @@
-# Planning
+# **Planning**
 
 Notes on motion planning for autonomous vehicles.
 

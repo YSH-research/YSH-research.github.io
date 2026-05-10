@@ -72,7 +72,7 @@ $$
 The direction is away from the obstacle ($\nabla \rho$ provides the unit vector).
 
 
-### 2.3 Total Force and Multiple Obstacles
+### **2.3 Total Force and Multiple Obstacles**
 
 ![Total force with multiple obstacles](<image (2).png>)
 
@@ -125,7 +125,7 @@ All of the above arise specifically when APF is used as a *gradient-based path g
 
 ---
 
-## 6. Parameter Summary
+## 5. Parameter Summary
 
 | Symbol      | Meaning             | Used in this work                    | Initial value |
 | ----------- | ------------------- | ------------------------------------ | ------------- |
