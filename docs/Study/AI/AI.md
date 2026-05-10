@@ -1,3 +1,3 @@
-# AI
+# **AI**
 
 Notes on artificial intelligence.
