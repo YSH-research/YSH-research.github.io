@@ -1,3 +1,3 @@
 # AI
 
-인공지능 관련 학습 노트.
+Notes on artificial intelligence.
