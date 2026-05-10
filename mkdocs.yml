@@ -49,16 +49,7 @@ nav:
   - Home: index.md
   - Research: Research/research.md
   - Projects: Project/projects.md
-  - Study:
-    - Overview: Study/study.md
-    - Autonomous Vehicle:
-      - Overview: Study/Autonomous_Vehicle/index.md
-      - Perception: Study/Autonomous_Vehicle/perception/index.md
-      - Planning:
-        - Overview: Study/Autonomous_Vehicle/planning/index.md
-        - APF: Study/Autonomous_Vehicle/planning/APF/index.md
-      - Control: Study/Autonomous_Vehicle/control/index.md
-    - AI: Study/AI/index.md
+  - Study: Study/study.md
   - Lectures: lecture/lecture.md
   - Teaching: teaching/teaching.md
   - Presentations: Presentations/presentations.md
