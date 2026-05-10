@@ -4,4 +4,4 @@ Notes on motion planning for autonomous vehicles.
 
 ## Topics
 
-- [APF — Artificial Potential Field](APF.md)
+- [APF — Artificial Potential Field](APF/APF.md)
