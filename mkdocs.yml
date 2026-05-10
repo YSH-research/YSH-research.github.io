@@ -45,7 +45,9 @@ nav:
   - Projects: Project/projects.md
   - Study:
     - Overview: Study/study.md
-    - Autonomous Vehicle: Study/Autonomous_Vehicle/index.md
+    - Autonomous Vehicle:
+      - Overview: Study/Autonomous_Vehicle/index.md
+      - Perception: Study/Autonomous_Vehicle/perception/index.md
     - AI: Study/AI/index.md
   - Lectures: lecture/lecture.md
   - Teaching: teaching/teaching.md
