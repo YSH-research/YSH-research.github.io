@@ -41,7 +41,7 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Research: research.md
+  - Research: Research/research.md
   - Projects: Project/projects.md
   - Study: study.md
   - Lectures: lecture/lecture.md
