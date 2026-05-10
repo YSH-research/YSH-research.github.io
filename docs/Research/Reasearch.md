@@ -1,4 +1,4 @@
-# Projects
+# Research
 
 Showcase some of your key projects.
 
