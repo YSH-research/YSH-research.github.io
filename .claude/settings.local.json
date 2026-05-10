@@ -35,7 +35,9 @@
       "Bash(where pip3:*)",
       "Bash(where python3:*)",
       "Bash(python -m pip install python-pptx Pillow comtypes)",
-      "Bash(powershell.exe -Command \":*)"
+      "Bash(powershell.exe -Command \":*)",
+      "Bash(where mkdocs *)",
+      "Bash(mkdocs --version)"
     ]
   }
 }
