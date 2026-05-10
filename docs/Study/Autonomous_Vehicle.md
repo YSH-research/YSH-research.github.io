@@ -1,9 +1,9 @@
 # Autonomous Vehicle
 
-자율주행 관련 학습 노트.
+General study notes on autonomous driving.
 
-## 분야
+## Areas
 
-- Perception
-- Planning
-- Control
+- [Perception](Autonomous_Vehicle/perception.md)
+- [Planning](Autonomous_Vehicle/planning.md)
+- [Control](Autonomous_Vehicle/control.md)
