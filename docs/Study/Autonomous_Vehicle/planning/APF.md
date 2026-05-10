@@ -17,7 +17,7 @@ APF (Artificial Potential Field)는 1986년 Khatib이 매니퓰레이터의 실�
 
 ### 2.1 Attractive Potential
 
-![Attractive potential field](<image.png>)
+![Attractive potential field](<APF/image.png>)
 
 목표지점 $x_{goal}$ 에 대한 인력 potential을 다음과 같이 정의한다:
 
@@ -40,7 +40,7 @@ $$
 
 ### 2.2 Repulsive Potential
 
-![Repulsive potential field](<image (1).png>)
+![Repulsive potential field](<APF/image (1).png>)
 
 장애물에 대한 척력 potential은 영향 반경 $\rho_0$ 내에서만 작용하도록 정의된다:
 
@@ -70,7 +70,7 @@ $$
 
 ### 2.3 Total Force와 다중 장애물 처리
 
-![Total force with multiple obstacles](<image (2).png>)
+![Total force with multiple obstacles](<APF/image (2).png>)
 
 합산된 potential의 gradient가 로봇에 작용하는 총 force가 된다:
 
