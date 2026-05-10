@@ -1,21 +1,21 @@
 # **Study**
 
-자율주행과 인공지능 학습 노트.
+Notes on autonomous driving and AI.
 
 ## Autonomous Vehicle
 
-| 분야                                                                                       | 설명                          |
-| ------------------------------------------------------------------------------------------ | ----------------------------- |
-| [Overview](Autonomous_Vehicle.md)                                                          | AV 학습 노트 전반             |
-| [Perception](Autonomous_Vehicle/perception.md)                                             | 인지 (perception) 관련 노트   |
-| [Planning](Autonomous_Vehicle/planning.md) — [APF](Autonomous_Vehicle/planning/APF.md)     | 경로계획 (planning) 관련 노트 |
-| [Control](Autonomous_Vehicle/control.md)                                                   | 제어 (control) 관련 노트      |
+| Section                                          | Description                       |
+| ------------------------------------------------ | --------------------------------- |
+| [Overview](Autonomous_Vehicle.md)                | General notes on AV               |
+| [Perception](Autonomous_Vehicle/perception.md)   | Perception-related notes          |
+| [Planning](Autonomous_Vehicle/planning.md)       | Motion planning notes             |
+| [Control](Autonomous_Vehicle/control.md)         | Control-related notes             |
 
 ## AI
 
-| 분야                | 설명               |
-| ------------------- | ------------------ |
-| [Overview](AI.md)   | AI 학습 노트 전반  |
+| Section             | Description           |
+| ------------------- | --------------------- |
+| [Overview](AI.md)   | General notes on AI   |
 
 ## Etc
 
