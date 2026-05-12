@@ -1,6 +1,6 @@
 # **Synchronous vs Asynchronous I/O**
 
-![Sync vs Async I/O overview](<image (3).png>)
+![Sync vs Async I/O quadrants](diagram.svg)
 
 A concept that comes up constantly in evaluation, simulation, and network/device I/O. Synchronous vs Asynchronous is frequently confused with Blocking vs Non-Blocking, but they are in fact **two independent axes**, and all four combinations are valid.
 
@@ -57,23 +57,23 @@ A concept that comes up constantly in evaluation, simulation, and network/device
 
 ## **Quadrant Summary**
 
-|                                       | Blocking (control held)                   | Non-Blocking (control returned immediately) |
-| ------------------------------------- | ----------------------------------------- | ------------------------------------------- |
-| **Synchronous** (A collects result)   | ① Sync-Blocking — just wait after call    | ② Sync-NonBlocking — check via polling      |
-| **Asynchronous** (B notifies result)  | ③ Async-Blocking — register callback then wait | ④ Async-NonBlocking — register callback then do other work |
+|                                      | Blocking (control held)                        | Non-Blocking (control returned immediately)                |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------------------- |
+| **Synchronous** (A collects result)  | ① Sync-Blocking — just wait after call         | ② Sync-NonBlocking — check via polling                     |
+| **Asynchronous** (B notifies result) | ③ Async-Blocking — register callback then wait | ④ Async-NonBlocking — register callback then do other work |
 
 ---
 
 ## **ROS / Autoware Mapping**
 
-| Pattern                                                                          | Category          |
-| -------------------------------------------------------------------------------- | ----------------- |
-| `rclcpp::spin()` on a single-threaded executor, waiting for the next callback   | Sync-Blocking     |
-| Periodically checking topic state with a timer                                   | Sync-NonBlocking  |
-| `client->async_send_request(req).get()`                                          | Async-Blocking    |
-| Subscription callback under MultiThreadedExecutor + reentrant callback group     | Async-NonBlocking |
-| TensorRT `enqueueV3` → `cudaStreamSynchronize`                                   | Async-Blocking    |
-| TensorRT `enqueueV3` → post-processing on a different stream                     | Async-NonBlocking |
+| Pattern                                                                       | Category          |
+| ----------------------------------------------------------------------------- | ----------------- |
+| `rclcpp::spin()` on a single-threaded executor, waiting for the next callback | Sync-Blocking     |
+| Periodically checking topic state with a timer                                | Sync-NonBlocking  |
+| `client->async_send_request(req).get()`                                       | Async-Blocking    |
+| Subscription callback under MultiThreadedExecutor + reentrant callback group  | Async-NonBlocking |
+| TensorRT `enqueueV3` → `cudaStreamSynchronize`                                | Async-Blocking    |
+| TensorRT `enqueueV3` → post-processing on a different stream                  | Async-NonBlocking |
 
 ---
 
