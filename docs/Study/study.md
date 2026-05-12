@@ -17,6 +17,13 @@ Notes on autonomous driving and AI.
 | ---------------------- | --------------------- |
 | [Overview](AI/AI.md)   | General notes on AI   |
 
+## Simulation
+
+| Section                                  | Description                |
+| ---------------------------------------- | -------------------------- |
+| [Overview](Simulation/Simulation.md)     | Simulators in general      |
+| [CARLA](Simulation/carla/carla.md)       | CARLA simulator notes      |
+
 ## Etc
 
 - [ROS Basics](ros_basics.md)
