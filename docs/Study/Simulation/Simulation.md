@@ -1,8 +1,7 @@
 # **Simulation**
 
-General study notes on autonomous driving.
+Notes on autonomous-driving simulators.
 
 ## Areas
 
-- [Carla](perception/perception.md)
-
+- [CARLA](carla/carla.md)
