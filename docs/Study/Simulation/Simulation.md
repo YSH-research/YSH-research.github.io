@@ -4,8 +4,8 @@ Notes on autonomous-driving simulators.
 
 ## Each Simulation
 
-- [CARLA](carla/carla.md)
+- [CARLA](Carla/Carla.md)
 
 ## Fundamentals
 
-- [Overview](fundamentals/fundamentals.md)
+- [Overview](Fundamentals/Fundamentals.md)

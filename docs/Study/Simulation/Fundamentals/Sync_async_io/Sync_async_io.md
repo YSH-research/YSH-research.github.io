@@ -1,6 +1,6 @@
 # **Synchronous vs Asynchronous I/O**
 
-![Sync vs Async I/O quadrants](<image (3).png>)
+![Sync vs Async I/O quadrants](<Image (3).png>)
 
 A concept that comes up constantly in evaluation, simulation, and network/device I/O. Synchronous vs Asynchronous is frequently confused with Blocking vs Non-Blocking, but they are in fact **two independent axes**, and all four combinations are valid.
 
