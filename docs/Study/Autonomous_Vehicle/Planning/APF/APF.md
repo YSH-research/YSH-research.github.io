@@ -19,7 +19,7 @@ Intuitively, if you visualize $U(x)$ as a landscape of *hills and valleys*, the 
 
 ### **2.1 Attractive Potential**
 
-![Attractive potential field](<image.png>)
+![Attractive potential field](<Image.png>)
 
 The attractive potential toward the goal $x_{goal}$ is defined as:
 
@@ -43,7 +43,7 @@ In 2D, $\nabla$ denotes the vector of partial derivatives $(\partial U / \partia
 
 ### **2.2 Repulsive Potential**
 
-![Repulsive potential field](<image (1).png>)
+![Repulsive potential field](<Image (1).png>)
 
 The repulsive potential is defined to act only within an influence radius $\rho_0$ of an obstacle:
 
@@ -74,7 +74,7 @@ The direction is away from the obstacle ($\nabla \rho$ provides the unit vector)
 
 ### **2.3 Total Force and Multiple Obstacles**
 
-![Total force with multiple obstacles](<image (2).png>)
+![Total force with multiple obstacles](<Image (2).png>)
 
 The gradient of the combined potential gives the total force on the robot:
 
