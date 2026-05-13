@@ -4,5 +4,5 @@ This page is a collection of presentations I've given at academic conferences, l
 
 ## **Categories**
 
-- [Lab Seminars](lab-seminars.md)
-- [Academic Seminars](academic-seminars.md)
+- [Lab Seminars](Lab-seminars.md)
+- [Academic Seminars](Academic-seminars.md)
