@@ -39,7 +39,7 @@ plugins:
   - glightbox
 
 extra_css:
-  - stylesheets/extra.css
+  - Stylesheets/Extra.css
 
 extra_javascript:
   - javascripts/mathjax.js
