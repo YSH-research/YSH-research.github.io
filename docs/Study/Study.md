@@ -7,9 +7,9 @@ Notes on autonomous driving and AI.
 | Section                                                       | Description               |
 | ------------------------------------------------------------- | ------------------------- |
 | [Overview](Autonomous_Vehicle/Autonomous_Vehicle.md)          | General notes on AV       |
-| [Perception](Autonomous_Vehicle/perception/perception.md)     | Perception-related notes  |
-| [Planning](Autonomous_Vehicle/planning/planning.md)           | Motion planning notes     |
-| [Control](Autonomous_Vehicle/control/control.md)              | Control-related notes     |
+| [Perception](Autonomous_Vehicle/Perception/Perception.md)     | Perception-related notes  |
+| [Planning](Autonomous_Vehicle/Planning/Planning.md)           | Motion planning notes     |
+| [Control](Autonomous_Vehicle/Control/Control.md)              | Control-related notes     |
 
 ## AI
 
@@ -22,9 +22,9 @@ Notes on autonomous driving and AI.
 | Section                                                            | Description                |
 | ------------------------------------------------------------------ | -------------------------- |
 | [Overview](Simulation/Simulation.md)                               | Simulators in general      |
-| [CARLA](Simulation/carla/carla.md)                                 | CARLA simulator notes      |
-| [Fundamentals](Simulation/fundamentals/fundamentals.md)            | Cross-simulator concepts   |
+| [CARLA](Simulation/Carla/Carla.md)                                 | CARLA simulator notes      |
+| [Fundamentals](Simulation/Fundamentals/Fundamentals.md)            | Cross-simulator concepts   |
 
 ## Etc
 
-- [ROS Basics](ros_basics.md)
+- [ROS Basics](Ros_basics.md)
