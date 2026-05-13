@@ -7,7 +7,7 @@ site_url: https://ysh-research.github.io/
 # 🟤 무채색/기타: brown, grey, blue grey, black, white
 theme:
   name: material
-  logo: assets/logo.png
+  logo: Assets/Logo.png
   palette:
     scheme: default
     primary: black
