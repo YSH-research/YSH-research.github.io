@@ -1,6 +1,24 @@
 # About Me
 
-![Profile Picture](./assets/images/profile.png)
+<div markdown style="display: flex; flex-wrap: wrap; align-items: center; gap: 2em; margin: 1.5em 0 2.5em 0; padding: 1.5em; border: 1px solid #e0e0e0; border-radius: 8px;">
+
+<img src="./Assets/profile.png" alt="SuHan Yoon" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+
+<div markdown style="flex: 1; min-width: 250px;">
+
+### **SuHan Yoon**
+
+MS Student Researcher · Autonomous Driving
+Bridging classical Control Theory and modern Data-driven AI for trustworthy autonomous agents.
+
+**Connect:**
+[:fontawesome-brands-github: GitHub](https://github.com/YSH-research){ .md-button }
+[:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/REPLACE-ME){ .md-button }
+[:simple-googlescholar: Scholar](https://scholar.google.com/citations?user=REPLACE-ME){ .md-button }
+[:fontawesome-solid-envelope: Email](mailto:yshgit@gmail.com){ .md-button }
+
+</div>
+</div>
 
 ## **Who am I**
 
