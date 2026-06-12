@@ -13,7 +13,7 @@ Bridging classical Control Theory and modern Data-driven AI for trustworthy auto
 
 **Connect:**
 [:fontawesome-brands-github: GitHub](https://github.com/YSH-research){ .md-button }
-[:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/REPLACE-ME){ .md-button }
+[:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/suhan-yoon-028b10381){ .md-button }
 [:simple-googlescholar: Scholar](https://scholar.google.com/citations?user=REPLACE-ME){ .md-button }
 [:fontawesome-solid-envelope: Email](mailto:yshgit@gmail.com){ .md-button }
 
