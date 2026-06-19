@@ -1,6 +1,30 @@
 # Teaching
+---
+<!--
+<span style="color:teal;font-weight:bold">TA</span> - Teaching Assistant
+<span style="color:darkblue;font-weight:bold">Instructor</span> - Instructor / Lecturer
+<span style="color:purple;font-weight:bold">Lab</span> - Lab / Practice Session
+-->
+## 2026
 
-You can list the courses you have taught or have been a TA for.
+| Semester | Role | Course Code | Course Title | Organization |
+|----------|------|-------------|--------------|--------------|
+| - | <span style="color:teal;font-weight:bold">TA</span> | - | - | CBNU |
 
-- **Course Code 1:** Course Title 1 (Semester, Year)
-- **Course Code 2:** Course Title 2 (Semester, Year)
+## 2025
+
+| Semester | Role | Course Code | Course Title | Organization |
+|----------|------|-------------|--------------|--------------|
+| - | <span style="color:teal;font-weight:bold">TA</span> | - | - | CBNU |
+
+## 2024
+
+| Semester | Role | Course Code | Course Title | Organization |
+|----------|------|-------------|--------------|--------------|
+| - | <span style="color:teal;font-weight:bold">TA</span> | - | - | CBNU |
+
+## 2023
+
+| Semester | Role | Course Code | Course Title | Organization |
+|----------|------|-------------|--------------|--------------|
+| - | <span style="color:teal;font-weight:bold">TA</span> | - | - | CBNU |
