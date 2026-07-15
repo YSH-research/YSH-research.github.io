@@ -11,11 +11,17 @@ Notes on autonomous driving and AI.
 | [Planning](Autonomous_Vehicle/Planning/Planning.md)           | Motion planning notes     |
 | [Control](Autonomous_Vehicle/Control/Control.md)              | Control-related notes     |
 
-## AI
+## AI - Deep Learning
 
 | Section                | Description           |
 | ---------------------- | --------------------- |
 | [Overview](AI/AI.md)   | General notes on AI   |
+
+
+## AI - Reinforcement Learning
+
+
+
 
 ## Simulation
 

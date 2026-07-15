@@ -11,11 +11,15 @@
 |----------|------|-------------|--------------|--------------|
 | - | <span style="color:teal;font-weight:bold">TA</span> | - | - | CBNU |
 
+위치인식
+
 ## 2025
 
 | Semester | Role | Course Code | Course Title | Organization |
 |----------|------|-------------|--------------|--------------|
 | - | <span style="color:teal;font-weight:bold">TA</span> | - | - | CBNU |
+
+
 
 ## 2024
 
