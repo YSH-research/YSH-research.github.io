@@ -8,7 +8,9 @@ docs_dir: Docs
 # 🟤 무채색/기타: brown, grey, blue grey, black, white
 theme:
   name: material
+  custom_dir: Overrides
   logo: Assets/Logo.png
+  favicon: Assets/favicon.png
   palette:
     scheme: default
     primary: black

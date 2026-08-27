@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <link rel="manifest" href="{{ 'site.webmanifest' | url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'Assets/Icons/apple-touch-icon.png' | url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ 'Assets/Icons/icon-192.png' | url }}">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ 'Assets/Icons/icon-512.png' | url }}">
+  <link rel="shortcut icon" href="{{ 'Assets/favicon.ico' | url }}">
+  <meta name="theme-color" content="#000000">
+  <meta name="application-name" content="SuHan Yoon's Technical Report">
+  <meta name="apple-mobile-web-app-title" content="SuHan Yoon">
+{% endblock %}
