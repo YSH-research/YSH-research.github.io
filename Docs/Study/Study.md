@@ -16,10 +16,14 @@ Notes on autonomous driving and AI.
 | Section                | Description           |
 | ---------------------- | --------------------- |
 | [Overview](AI/AI.md)   | General notes on AI   |
+| [Overview](AI/AI.md)   | General notes on AI   |
 
 
 ## AI - Reinforcement Learning
 
+| Section                | Description           |
+| ---------------------- | --------------------- |
+| [Overview](AI/AI.md)   | General notes on AI   |
 
 
 
