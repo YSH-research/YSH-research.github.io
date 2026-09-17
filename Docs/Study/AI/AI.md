@@ -15,3 +15,4 @@ Notes on artificial intelligence.
 
 ## Reinforcement Learning
 
+## 최적화
