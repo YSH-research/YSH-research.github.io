@@ -16,6 +16,8 @@ Bridging classical Control Theory and modern Data-driven AI for trustworthy auto
 [:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/suhan-yoon-028b10381){ .md-button }
 [:simple-googlescholar: Scholar](https://scholar.google.com/citations?user=REPLACE-ME){ .md-button }
 [:fontawesome-solid-envelope: Email](mailto:yshgit@gmail.com){ .md-button }
+[:fontawesome-brands-instagram: Instagram](https://www.instagram.com/REPLACE-ME){ .md-button }
+[:material-brain: ML Platform](https://REPLACE-ME){ .md-button }
 
 </div>
 </div>
