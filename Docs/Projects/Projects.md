@@ -1,10 +1,42 @@
 # **Projects**
 
-Engineering and infrastructure work that supports my research — tooling, servers, and hands-on hardware, rather than research results themselves. Research topics live under [Research](../Research/Research.md).
+Engineering and infrastructure work — tooling, servers, and hands-on hardware, rather than research results themselves. Research topics live under [Research](../Research/Research.md).
 
 ---
 
-## **Computer Resource Management**
+## **Research Support**
+
+Things I build so the experiments can run: the AD stack, lab compute, and the MLOps around training.
+
+### Autoware
+
+<div class="project-grid" markdown>
+
+<div class="project-card" markdown>
+<div class="project-card__thumb project-card__thumb--empty">No image</div>
+<div class="project-card__body" markdown>
+
+[Autoware — Overview](Autoware/Autoware.md){ .project-card__title }
+
+<div class="project-tags"><span class="tag">Autoware</span><span class="tag">ROS 2</span></div>
+
+</div>
+</div>
+
+<div class="project-card" markdown>
+<div class="project-card__thumb project-card__thumb--empty">No image</div>
+<div class="project-card__body" markdown>
+
+[Add Manual Control](Autoware/Add_manual_control/Add_manual_control.md){ .project-card__title }
+
+<div class="project-tags"><span class="tag">Autoware</span><span class="tag">Control</span></div>
+
+</div>
+</div>
+
+</div>
+
+### Computer Resource Management
 
 <div class="project-grid" markdown>
 
@@ -43,9 +75,7 @@ Engineering and infrastructure work that supports my research — tooling, serve
 
 </div>
 
----
-
-## **H/W Handle & Control**
+### MLOps
 
 <div class="project-grid" markdown>
 
@@ -53,9 +83,9 @@ Engineering and infrastructure work that supports my research — tooling, serve
 <div class="project-card__thumb project-card__thumb--empty">No image</div>
 <div class="project-card__body" markdown>
 
-<div class="project-card__title">Project title goes here</div>
+<div class="project-card__title">MLflow Server for the Lab</div>
 
-<div class="project-tags"><span class="tag">Planned</span></div>
+<div class="project-tags"><span class="tag">MLOps</span><span class="tag">MLflow</span><span class="tag">Planned</span></div>
 
 </div>
 </div>
@@ -64,9 +94,11 @@ Engineering and infrastructure work that supports my research — tooling, serve
 
 ---
 
-## **Boost Productivity**
+## **Side Projects**
 
-### AI Tools
+Everything else I build — automation, home servers, and hardware tinkering.
+
+### Automation
 
 <div class="project-grid" markdown>
 
@@ -83,7 +115,7 @@ Engineering and infrastructure work that supports my research — tooling, serve
 
 </div>
 
-### Dev Tools & Code
+### Home Server
 
 <div class="project-grid" markdown>
 
@@ -109,22 +141,9 @@ Engineering and infrastructure work that supports my research — tooling, serve
 </div>
 </div>
 
-<div class="project-card" markdown>
-<div class="project-card__thumb project-card__thumb--empty">No image</div>
-<div class="project-card__body" markdown>
-
-<div class="project-card__title">MLflow Server for the Lab</div>
-
-<div class="project-tags"><span class="tag">MLOps</span><span class="tag">MLflow</span><span class="tag">Planned</span></div>
-
-</div>
 </div>
 
-</div>
-
----
-
-## **Autoware**
+### Hardware
 
 <div class="project-grid" markdown>
 
@@ -132,20 +151,9 @@ Engineering and infrastructure work that supports my research — tooling, serve
 <div class="project-card__thumb project-card__thumb--empty">No image</div>
 <div class="project-card__body" markdown>
 
-[Autoware — Overview](Autoware/Autoware.md){ .project-card__title }
+<div class="project-card__title">H/W Handle & Control</div>
 
-<div class="project-tags"><span class="tag">Autoware</span><span class="tag">ROS 2</span></div>
-
-</div>
-</div>
-
-<div class="project-card" markdown>
-<div class="project-card__thumb project-card__thumb--empty">No image</div>
-<div class="project-card__body" markdown>
-
-[Add Manual Control](Autoware/Add_manual_control/Add_manual_control.md){ .project-card__title }
-
-<div class="project-tags"><span class="tag">Autoware</span><span class="tag">Control</span></div>
+<div class="project-tags"><span class="tag">Hardware</span><span class="tag">Planned</span></div>
 
 </div>
 </div>
