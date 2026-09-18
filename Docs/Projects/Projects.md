@@ -1,6 +1,6 @@
-# **Projects — Personal**
+# **Projects**
 
-Engineering skills and technical experiments that support my research, rather than formal research outcomes.
+Engineering and infrastructure work that supports my research — tooling, servers, and hands-on hardware, rather than research results themselves. Research topics live under [Research](../Research/Research.md).
 
 ---
 
