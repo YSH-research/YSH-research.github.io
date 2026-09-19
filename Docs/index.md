@@ -9,15 +9,19 @@
 ### **SuHan Yoon**
 
 MS Student Researcher · Autonomous Driving
+
 Bridging classical Control Theory and modern Data-driven AI for trustworthy autonomous agents.
 
-**Connect:**
+<div class="connect-label">Connect</div>
+
+<div class="connect-grid" markdown>
 [:fontawesome-brands-github: GitHub](https://github.com/YSH-research){ .md-button }
 [:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/suhan-yoon-028b10381){ .md-button }
 [:simple-googlescholar: Scholar](https://scholar.google.com/citations?user=REPLACE-ME){ .md-button }
 [:fontawesome-solid-envelope: Email](mailto:yshgit@gmail.com){ .md-button }
 [:fontawesome-brands-instagram: Instagram](https://www.instagram.com/REPLACE-ME){ .md-button }
 [:material-brain: ML Platform](https://REPLACE-ME){ .md-button }
+</div>
 
 </div>
 </div>
