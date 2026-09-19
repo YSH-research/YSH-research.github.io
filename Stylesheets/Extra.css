@@ -1,0 +1,164 @@
+/* 화면 너비를 넓게 설정 */
+.md-grid {
+    max-width: 85%;
+    /* 화면의 96%까지 사용 */
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* 글씨 크기를 조금 키워서 시원하게 보기 (선택 사항) */
+html {
+    font-size: 150%;
+}
+
+.md-header-nav .md-logo img {
+  height: 5rem;
+}
+
+/* Hide footer */
+.md-footer {
+  display: none !important;
+}
+
+.md-footer-meta {
+  display: none !important;
+}
+
+footer {
+  display: none !important;
+}
+
+/* About Me 프로필의 Connect 버튼 줄: 크기를 맞춘 격자로 정렬 */
+.md-typeset .connect-label {
+  margin: 1em 0 .4em;
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .connect-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: .4rem;
+  margin: 0;
+}
+
+/* Material 기본 마진을 지워야 줄이 흐르지 않고 격자에 맞는다 */
+.md-typeset .connect-grid .md-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .35rem;
+  margin: 0;
+  padding: .35rem .6rem;
+  font-size: .7rem;
+  white-space: nowrap;
+}
+
+/* 마크다운이 링크들을 <p> 하나로 묶어도 버튼 각각이 격자 항목이 되게 */
+.md-typeset .connect-grid p {
+  display: contents;
+}
+
+.md-typeset .connect-grid .md-button svg {
+  width: .9em;
+  height: .9em;
+  flex-shrink: 0;
+}
+
+/* 프로젝트 카드 그리드 (사진 + 제목 + 태그) */
+.md-typeset .project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+  gap: .8rem;
+  margin: 1rem 0 2rem;
+}
+
+.md-typeset .project-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .2rem;
+  background: var(--md-default-bg-color);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+
+.md-typeset .project-card:hover {
+  transform: translateY(-.08rem);
+  border-color: var(--md-default-fg-color--light);
+  box-shadow: 0 .15rem .5rem rgba(0, 0, 0, .12);
+}
+
+/* 썸네일: 사진이 있든 없든 16:9 로 고정 */
+.md-typeset .project-card__thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  margin: 0;
+  background: linear-gradient(135deg, #eceef3 0%, #d3d8e3 100%);
+}
+
+/* 아직 사진이 없는 카드용 */
+.md-typeset .project-card__thumb--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .55rem;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .project-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: .4rem;
+  padding: .55rem .65rem .65rem;
+}
+
+.md-typeset .project-card__title {
+  font-size: .78rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.md-typeset a.project-card__title {
+  color: var(--md-default-fg-color);
+}
+
+/* 제목 링크를 카드 전체로 확장해 어디를 눌러도 이동 */
+.md-typeset a.project-card__title::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* 카드 안에서 마크다운이 만드는 <p> 기본 여백 제거 */
+.md-typeset .project-card p {
+  margin: 0;
+}
+
+/* 태그는 제목 길이와 무관하게 항상 카드 바닥에 정렬 */
+.md-typeset .project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .25rem;
+  margin-top: auto;
+}
+
+.md-typeset .project-tags .tag {
+  padding: .1rem .35rem;
+  border-radius: .8rem;
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+  font-size: .55rem;
+  line-height: 1.7;
+  white-space: nowrap;
+}
