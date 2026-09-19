@@ -2,7 +2,7 @@
 
 <div markdown style="display: flex; flex-wrap: wrap; align-items: center; gap: 2em; margin: 1.5em 0 2.5em 0; padding: 1.5em; border: 1px solid #e0e0e0; border-radius: 8px;">
 
-<img src="./Assets/profile.png" alt="SuHan Yoon" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<img src="./Assets/Profile.jpg" alt="SuHan Yoon" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
 
 <div markdown style="flex: 1; min-width: 250px;">
 
